@@ -1,0 +1,179 @@
+.mainSlider{
+	background-image: url(../images/me.jpg);
+	background-size: cover;
+	width: 100%;
+}
+
+.mainHeading{
+margin-bottom: 17%;	
+margin-top: 17%;	
+
+}
+
+.mainHeading h1{
+	font-size: 70px;
+	color: #fff;
+	font-weight: bold;
+}
+
+.slideText {
+	color: #fff;
+	font-weight: bold;
+	margin-top: 2%;
+}
+
+.whatsapp{
+	background-color: #ffc03d;
+	display: inline-block;
+	padding: 8px 30px;
+	border-radius: 5px;
+	margin-left: 40%;
+	font-weight: bold;
+	color: #fff;
+}
+
+.whatsapp5{
+	background-color: #ffc03d;
+	display: inline-block;
+	padding: 8px 30px;
+	border-radius: 5px;
+	margin-left: 0%;
+	font-weight: bold;
+	color: #fff;
+}
+
+.whatsapp2{
+	background-color: #fff;
+	display: inline-block;
+	padding: 8px 30px;
+	border-radius: 5px;
+	font-size: 15px;
+	color: #000;
+}
+
+
+
+.colMainBox{
+	background-color: #ffc03d;
+	padding-bottom: 38.3%;	
+padding-top: 38.3%;
+padding-left: 10%;
+padding-right: 10%;
+color: #fff;
+}
+
+.bIcon i{
+	font-size: 30px;
+	background-color: #ccc;
+	padding: 20px;
+	text-align: center;
+	width: 80px;
+	height: 80px;
+	border-radius: 100px;
+}
+
+.minisBosText{
+	width: 100%;
+	margin-right: 10%;
+	text-align: center;
+}
+
+.minisBosText h5{
+	font-size: 17px;
+	margin-top: 10%;
+}
+.minisBosText p{
+	font-size: 13px;
+}
+
+.gloogof{
+	float: right;
+	margin-top: 0%;
+	margin-right: 30%;
+}
+
+.whatsapp3{
+	background-color: #ffc03d;
+	display: inline-block;
+	padding: 8px 30px;
+	border-radius: 5px;
+	font-size: 15px;
+	color: #000;
+
+}
+
+.whatsapp4{
+	background-color: #ffc03d;
+	display: inline-block;
+	padding: 8px 30px;
+	border-radius: 5px;
+	font-size: 15px;
+	color: #000;
+	margin-left: 0%;
+
+}
+
+
+.mainsix{
+	margin-left: 0%;
+	background-color: #abb8c3;
+	margin-top: 0%;
+	padding: 10px;
+}
+
+
+.cricketIDIMg{
+	background-image: url(../images/cricketid.jpg);
+	background-size: cover;
+	width: 100%;
+}
+
+.mainTextCricket{
+	color: #fff;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+.bgcolor{
+	background: #263045;
+}
+
+.ftext{
+font-size: 12px;
+color: #fff;
+padding: 20px;
+}
+
+.minisBosText:hover i{
+	color: #069;
+	background-color: #ffc03d;
+	transition: all .3s;
+}
+
+
+
+
+@media screen and (min-width: 300px) and (max-width: 700px){
+.mainHeading h1 {
+    font-size: 30px;
+   }
+
+.whatsapp {
+   margin-left: 15%;
+   font-size: 12px;
+}
+
+
+.colMainBox {
+   padding-top: 11.3%;
+   padding-bottom: 11.3%;
+}
+
+.minisBosText {
+    width: 100%;
+    padding-left: 0%;
+    text-align: center;
+}
+
+}
+
+
